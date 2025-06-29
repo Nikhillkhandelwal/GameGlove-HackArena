@@ -277,7 +277,6 @@ while running:
             gesture_lists[i][j] = key_name
             save_data()
             editing_key = None
-            
 
     draw_gesture_mappings()
     pygame.display.flip()
